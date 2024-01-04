@@ -6,7 +6,7 @@
 
 ### Tools and resources used
 
-- Data provided by Alex Freberg 
+- Data provided by [Alex Freberg](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) 
 - Excel - data cleaning, analyzing data and creating dashboard
 ### Data cleaning
 
@@ -15,6 +15,7 @@ My first step was to copy the raw data to 'Calculations' sheet and then remove d
 Next I used 'Find and Replace' feature to update the 'Marital status' column: 
 - 'M' -> 'Married'
 - 'S' -> 'Single'
+  
 And 'Gender' column:
 - 'F' -> 'Female'
 - 'M' -> 'Male'
